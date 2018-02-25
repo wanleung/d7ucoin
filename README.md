@@ -3,7 +3,7 @@ D7ucoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/d7ucoin/d7ucoin.svg?branch=master)](https://travis-ci.org/d7ucoin/d7ucoin)
 
-https://www.d7ucoin.org
+https://www.d7ucoin.com
 
 What is D7ucoin?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. D7ucoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the D7ucoin Core software, see https://www.d7ucoin.org/en/download.
+the D7ucoin Core software, see https://www.d7ucoin.com/en/download.
 
 License
 -------
