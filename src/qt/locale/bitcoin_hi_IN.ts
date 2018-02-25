@@ -164,8 +164,8 @@
         <translation>पहचान शब्द/अक्षर जो वॉलेट एनक्रिपशन के लिए इस्तेमाल किया है उसे बदलिए!</translation>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>बीटकोइन</translation>
+        <source>D7ucoin</source>
+        <translation>D7ucoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -188,8 +188,8 @@
         <translation>टैबस टूलबार</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n सक्रिया संपर्क बीटकोइन नेटवर्क से</numerusform><numerusform>%n सक्रिया संपर्क बीटकोइन नेटवर्क से</numerusform></translation>
+        <source>%n active connection(s) to D7ucoin network</source>
+        <translation><numerusform>%n सक्रिया संपर्क D7ucoin नेटवर्क से</numerusform><numerusform>%n सक्रिया संपर्क D7ucoin नेटवर्क से</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>

@@ -159,8 +159,8 @@
         <translation>Barra de herramientas</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n conexión activa a la red Bitcoin </numerusform><numerusform>%n conexiones activas a la red Bitcoin</numerusform></translation>
+        <source>%n active connection(s) to D7ucoin network</source>
+        <translation><numerusform>%n conexión activa a la red D7ucoin </numerusform><numerusform>%n conexiones activas a la red D7ucoin</numerusform></translation>
     </message>
     <message>
         <source>Up to date</source>
